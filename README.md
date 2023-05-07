@@ -5,7 +5,7 @@
 I'm a student with 1 years of experience in FrontEnd Development.
 ## Skills
 
-- 💻 HTML,CSS
+- 💻 HTML,CSS, Bootstrap
 - 💼 Javascript
 - 📈 Python
 - 📚 Java
