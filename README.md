@@ -9,19 +9,17 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/yashigupta4623" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="yashigupta4623" height="30" width="40" /></a>
-<a href="https://twitter.com/yashig406" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yashig406" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/yashig406" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yashig406" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/yashigupta4623" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="yashigupta4623" height="30" width="40" /></a>
-<a href="https://kaggle.com/yashigupta00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="yashigupta00" height="30" width="40" /></a>
-<a href="https://instagram.com/probablyashi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="probablyashi" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/yashi gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="yashi gupta" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/coder_yashi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="coder_yashi" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/coder_yashi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="coder_yashi" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/coder_yashi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="coder_yashi" height="30" width="40" /></a>
+<a href="https://dev.to/yashigupta4623" target="blank"><img align="center" src="https://dev.to/yashigupta4623" alt="yashigupta4623" height="30" width="40" /></a>
+<a href="https://twitter.com/yashig406" target="blank"><img align="center" src="https://twitter.com/yashig406" alt="yashig406" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/yashig406" target="blank"><img align="center" src="https://www.linkedin.com/in/yashi-gupta-a65218232/" alt="yashig406" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/yashigupta4623" target="blank"><img align="center" src="https://stackoverflow.com/users/18789151/yashigupta4623" alt="yashigupta4623" height="30" width="40" /></a>
+<a href="https://kaggle.com/yashigupta00" target="blank"><img align="center" src="https://www.kaggle.com/yashigupta00" alt="yashigupta00" height="30" width="40" /></a>
+<a href="https://instagram.com/probablyashi" target="blank"><img align="center" src="https://www.instagram.com/probablyashi/" alt="probablyashi" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/yashi gupta" target="blank"><img align="center" src="https://www.youtube.com/channel/UCSQi8AQvLj53dRnEDAlhPsQ" alt="yashi gupta" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/coder_yashi" target="blank"><img align="center" src="https://www.codechef.com/users/coder_yashi" alt="coder_yashi" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/coder_yashi" target="blank"><img align="center" src="https://www.hackerrank.com/yashigupta4623" alt="coder_yashi" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/coder_yashi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="coder_yashi" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/coderysqan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="coderysqan" height="30" width="40" /></a>
-<a href="https://discord.gg/#9152" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#9152" height="30" width="40" /></a>
+<a href="https://discord.gg/#9152" target="blank"><img align="center" src="https://discordapp.com/users/yashigupta4623#9152" alt="#9152" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
