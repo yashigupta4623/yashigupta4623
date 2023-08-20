@@ -2,10 +2,12 @@
 
 ## About Me
 
-I'm a student with 1 years of experience in FrontEnd Development.
+I'm a student and learning MERN Development.
+I'm a Python Coder.
+
 ## Skills
 
-- 💻 HTML,CSS, Bootstrap
+- 💻 HTML,CSS,Bootstrap,React
 - 💼 Javascript
 - 📈 Python
 - 📚 Java
@@ -19,7 +21,6 @@ I'm a student with 1 years of experience in FrontEnd Development.
 
 ## Education
 
-- 🎓 12th, PCM, St.Paul's School, 2020
 - 🎓 B.Tech, Engineering, Noida Institute of Engineering and Technology, Greater Noida, 2025
 
 ## Contact Me
