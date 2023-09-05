@@ -43,11 +43,9 @@
 <a href="mailto:yashig406@gmail.com" target="_blank">
   <img alt="Gmail" src="https://img.shields.io/badge/-gmail-%23D14836?style=for-the-badge&logo=Gmail&logoColor=white" />
 </a>
-</div>
 
 <br>
 
-<div class="social-badges">
   <a href="https://www.cloudskillsboost.google/public_profiles/e5cec970-0cc5-4375-b358-514f45b8061c" target="_blank">
     <img alt="Qwiklab" src="https://img.shields.io/badge/Qwiklabs-F5CD0E.svg?style=for-the-badge&logo=Qwiklabs&logoColor=black">
   </a>
