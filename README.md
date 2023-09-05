@@ -59,17 +59,7 @@
   </a>
 </div>
 
-## Social Links:
 
-<!-- Start of Social Links -->
-[![Twitter Profile of Noman Dhoni](https://skillicons.dev/icons?i=twitter)](https://twitter.com/nomandhoni/)
-[![Linkedin Profile of Noman Dhoni](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/nomandhoni/)
-[![Reddit Profile of Noman Dhoni](https://cdn.icon-icons.com/icons2/2108/PNG/48/reddit_icon_130846.png)](https://www.reddit.com/u/nomandhoni/)
-[![Discord Profile of Noman Dhoni](https://skillicons.dev/icons?i=discord)](https://discord.com/users/910959881249505280)
-[![Mastodon Profile of Noman Dhoni](https://skillicons.dev/icons?i=mastodon)](https://mastodon.social/@nomandhoni)
-[![Stack Overflow Profile of Noman Dhoni](https://skillicons.dev/icons?i=stackoverflow)](https://stackoverflow.com/users/16659520/nomandhoni)
-[![Instagram Profile of Noman Dhoni](https://cdn.icon-icons.com/icons2/1753/PNG/48/iconfinder-social-media-applications-3instagram-4102579_113804.png)](https://www.instagram.com/nomandhoni/)
-[![Noman Dhoni's Blogsite](https://cdn.icon-icons.com/icons2/555/PNG/48/blogger_icon-icons.com_53598.png)](https://dailynoman.blogspot.com/)
 
  <!---
 Lawful2002/Lawful2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
