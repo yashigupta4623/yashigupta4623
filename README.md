@@ -1,4 +1,4 @@
-## 👨🏻‍💻 &nbsp;About Me
+## 👨‍💻  &nbsp;About Me
 
 - 👋 Hi, I’m Yashi Gupta
 - 👀 I’m interested in new techonlogies like AIML, MERN Development, Google Cloud and many more.
