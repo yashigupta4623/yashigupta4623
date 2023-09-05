@@ -1,12 +1,10 @@
 <h1 align="center" >Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
-         height="45"
-                            width="45" /> there, I'm <a href="https://tarikmanoar.github.io"> Manoar</a> </h1>
+         height="45" width="45" /> there, I'm <a href="https://tarikmanoar.github.io"> Manoar</a> </h1>
+
 
 
 ## 👨‍💻  &nbsp;About Me
-
-- 👋 Hi, I’m Yashi Gupta
 - 👀 I’m interested in new techonlogies like AIML, MERN Development, Google Cloud and many more.
 - 🌱 I’m currently learning. 
 - 📫 Email: yashig406@gmail.com
