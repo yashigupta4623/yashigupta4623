@@ -32,12 +32,12 @@
   <img align="left" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="mailto:yashig406@gmail.com" target="_blank">
-  <img alt="Gmail" src="https://img.shields.io/badge/-gmail-%23D14836?style=for-the-badge&logo=Gmail&logoColor=white" />
-</a>
-
 <a href="https://twitter.com/yashig406" target="_blank">
   <img align = "left" alt="Twitter" src="https://img.shields.io/badge/-twitter-0077B5?style=for-the-badge&logo=Twitter&logoColor=white" />
+</a>
+
+<a href="mailto:yashig406@gmail.com" target="_blank">
+  <img alt="Gmail" src="https://img.shields.io/badge/-gmail-%23D14836?style=for-the-badge&logo=Gmail&logoColor=white" />
 </a>
 
  <!---
