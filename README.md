@@ -8,7 +8,6 @@
 ## 🛠 &nbsp;Tech Stack
 
 <p align="center"> 
-<img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" />
 <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
 <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
 <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
@@ -43,11 +42,11 @@
   <img alt="Gmail" src="https://img.shields.io/badge/-gmail-%23D14836?style=for-the-badge&logo=Gmail&logoColor=white" />
 </a>
 
+<br>
+<a href="https://www.cloudskillsboost.google/public_profiles/e5cec970-0cc5-4375-b358-514f45b8061c" target="blank"><img alt="Qwiklab" src="https://img.shields.io/badge/Qwiklabs-F5CD0E.svg?style=for-the-badge&logo=Qwiklabs&logoColor=black" /></a>
 <a href="https://twitter.com/yashig406" target="_blank">
   <img align = "left" alt="Twitter" src="https://img.shields.io/badge/-twitter-0077B5?style=for-the-badge&logo=Twitter&logoColor=white" />
 </a>
-
-<a href="https://www.cloudskillsboost.google/public_profiles/e5cec970-0cc5-4375-b358-514f45b8061c" target="blank"><img alt="Qwiklab" src="https://img.shields.io/badge/Qwiklabs-F5CD0E.svg?style=for-the-badge&logo=Qwiklabs&logoColor=black" /></a>
 
  <!---
 Lawful2002/Lawful2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
