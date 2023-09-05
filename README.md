@@ -28,12 +28,18 @@
 
  ## 🤝🏻 &nbsp;Connect with Me
 
+<a href="https://www.linkedin.com/in/yashi-gupta-a65218232/" target="_blank">
+  <img align="left" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-[<img align="left" alt="linkdin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
-[![Gmail](https://img.shields.io/badge/-gmail-%23D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:yashig406@gmail.com)
-[![Twitter](https://img.shields.io/badge/-twitter-%23D14836?style=for-the-badge&logo=Twitter&logoColor=white)][twitter]
-[linkedin]: https://www.linkedin.com/in/yashi-gupta-a65218232/
-[twitter]: https://twitter.com/yashig406
+<a href="mailto:yashig406@gmail.com" target="_blank">
+  <img alt="Gmail" src="https://img.shields.io/badge/-gmail-%23D14836?style=for-the-badge&logo=Gmail&logoColor=white" />
+</a>
+
+<a href="https://twitter.com/yashig406" target="_blank">
+  <img alt="Twitter" src="https://img.shields.io/badge/-twitter-%23D14836?style=for-the-badge&logo=Twitter&logoColor=white" />
+</a>
+
  <!---
 Lawful2002/Lawful2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
