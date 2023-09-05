@@ -21,8 +21,8 @@
 
 <p align="left">
 <a href="https://github.com/yashigupta4623">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ThakurSaAbhay&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" width = "340em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ThakurSaAbhay&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yashigupta4623&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" width = "340em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yashigupta4623&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
@@ -37,7 +37,7 @@
 </a>
 
 <a href="https://twitter.com/yashig406" target="_blank">
-  <img alt="Twitter" src="https://img.shields.io/badge/-twitter-%23D14836?style=for-the-badge&logo=Twitter&logoColor=white" />
+  <img align = "left" alt="Twitter" src="https://img.shields.io/badge/-twitter-%23D14836?style=for-the-badge&logo=Twitter&logoColor=white" />
 </a>
 
  <!---
