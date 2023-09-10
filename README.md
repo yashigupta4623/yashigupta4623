@@ -48,6 +48,10 @@
   <img alt="Gmail" src="https://img.shields.io/badge/-gmail-%23D14836?style=for-the-badge&logo=Gmail&logoColor=white" />
 </a>
 
+  <a href="https://www.youtube.com/channel/UCSQi8AQvLj53dRnEDAlhPsQ" target="_blank">
+    <img alt="Qwiklab" src="https://img.shields.io/badge/Youtube-F5CD0E.svg?style=for-the-badge&logo=Qwiklabs&logoColor=black">
+  </a>
+
 <br>
 
   <a href="https://www.cloudskillsboost.google/public_profiles/e5cec970-0cc5-4375-b358-514f45b8061c" target="_blank">
