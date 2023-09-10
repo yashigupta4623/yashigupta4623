@@ -57,6 +57,10 @@
   <a href="https://twitter.com/yashig406" target="_blank">
     <img alt="Twitter" src="https://img.shields.io/badge/-twitter-0077B5?style=for-the-badge&logo=Twitter&logoColor=white">
   </a>
+
+   <a href="https://medium.com/@yashig406" target="_blank">
+    <img alt="Twitter" src="https://img.shields.io/badge/-medium-0077B5?style=for-the-badge&logo=Medium&logoColor=black">
+  </a>
 </div>
 
 
