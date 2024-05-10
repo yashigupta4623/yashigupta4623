@@ -61,4 +61,4 @@
 </div>
 
 <!--- Snake Animation -->
-![Snake animation](https://github.com/yashigupta4623/yashigupta4623/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/yashigupta4623/yashigupta4623/blob/output/github-snake-dark.svg)
