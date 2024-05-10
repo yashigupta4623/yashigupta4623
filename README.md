@@ -1,11 +1,7 @@
-<h1 align="center" >Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
-         alt="Waving hand animated gif"
-         height="45" width="45" /> there, I'm <a> Yashi Gupta</a> </h1>
-
-
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" height="45" width="45" /> there, I'm <a>Yashi Gupta</a></h1>
 
 ## 👨‍💻  &nbsp;About Me 
-- 👀 I’m interested in new techonlogies like AIML, MERN Development, Google Cloud and many more.
+- 👀 I’m interested in new technologies like AIML, MERN Development, Google Cloud, and many more.
 - 🌱 I’m currently learning. 
 - 📫 Email: yashig406@gmail.com
 
@@ -25,19 +21,16 @@
 <img alt="FIGMA" src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white" />
 </p>
 
-
-
-
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
 <a href="https://github.com/yashigupta4623">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yashigupta4623&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" width = "340em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yashigupta4623&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" width="340em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yashigupta4623&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
- ## 🤝🏻 &nbsp;Connect with Me
+## 🤝🏻 &nbsp;Connect with Me
 
 <div class="social-badges">
 <a href="https://www.linkedin.com/in/yashi-gupta-a65218232/" target="_blank">
@@ -67,11 +60,5 @@
   </a>
 </div>
 
-
-
-
-  ![Snake animation](https://github.com/yashigupta4623/yashigupta4623/blob/output/github-contribution-grid-snake.svg)
- <!---
-Lawful2002/Lawful2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!--- Snake Animation -->
+![Snake animation](https://github.com/yashigupta4623/yashigupta4623/blob/output/github-contribution-grid-snake.svg)
