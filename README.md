@@ -21,6 +21,9 @@
 <img alt="FIGMA" src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white" />
 </p>
 
+<!--- Snake Animation -->
+![Snake animation](https://github.com/yashigupta4623/yashigupta4623/blob/output/github-snake-dark.svg)
+
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
@@ -60,5 +63,4 @@
   </a>
 </div>
 
-<!--- Snake Animation -->
-![Snake animation](https://github.com/yashigupta4623/yashigupta4623/blob/output/github-snake-dark.svg)
+
