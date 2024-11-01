@@ -1,9 +1,10 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" height="45" width="45" /> there, I'm <a>Yashi Gupta</a></h1>
 
 ## 👨‍💻  &nbsp;About Me 
-- 👀 I’m interested in new technologies like AIML, MERN Development, Google Cloud, and many more.
-- 🌱 I’m currently learning. 
-- 📫 Email: yashig406@gmail.com
+- 👀 Interests: I'm passionate about exploring emerging technologies, especially in Artificial Intelligence (AI), Machine Learning (ML), MERN Development, Google Cloud, and Cloud Computing. I'm constantly eager to learn new frameworks and tools to stay on the cutting edge.
+- 🌱 Current Learning Journey: I'm advancing my skills in both AI/ML techniques and cloud solutions, while also strengthening my full-stack development expertise with a focus on the MERN stack.
+- 💼 Professional Skills: I have experience in frontend and backend development, problem-solving, and sharing knowledge with others, making me a strong collaborator in technical projects.
+- 📫 Contact Me: Feel free to reach out at yashig406@gmail.com.
 
 ## 🛠 &nbsp;Tech Stack
 
