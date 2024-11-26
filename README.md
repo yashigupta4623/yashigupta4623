@@ -22,6 +22,7 @@
   <img alt="YML" src="https://img.shields.io/badge/yml-%23008180.svg?style=for-the-badge&logo=yml&logoColor=white"/>
   <img alt="Bash Script" src="https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
   <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
+    <img alt="Streamline" src="https://img.shields.io/badge/streamline-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
 
   
   <!-- Technologies/Frameworks -->
