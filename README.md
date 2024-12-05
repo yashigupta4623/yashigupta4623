@@ -53,7 +53,9 @@
 ![Snake animation](https://github.com/yashigupta4623/yashigupta4623/blob/output/github-snake-dark.svg)
 
 <!-- Holopin Badges -->
-[![Holopin Badges](https://www.holopin.io/@yashigupta4623#badges)](https://www.holopin.io/@yashigupta4623)
+<a href="https://www.holopin.io/@yashigupta4623#badges" target="_blank">
+  <img src="https://holopin.me/yashigupta4623" alt="Holopin Badges" style="height: auto; width: 100%;"/>
+</a>
 
 ## ⚙️ &nbsp;GitHub Analytics
 
