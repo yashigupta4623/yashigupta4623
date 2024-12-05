@@ -49,17 +49,23 @@
   <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 </p>
 
-<!--- Snake Animation -->
+<!-- Snake Animation -->
 ![Snake animation](https://github.com/yashigupta4623/yashigupta4623/blob/output/github-snake-dark.svg)
+
+<!-- Holopin Badges -->
+[![Holopin Badges](https://www.holopin.io/@yashigupta4623#badges)](https://www.holopin.io/@yashigupta4623)
 
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<a href="https://github.com/yashigupta4623">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yashigupta4623&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="340em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yashigupta4623&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+  <a href="https://github.com/yashigupta4623">
+    <!-- GitHub Stats -->
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yashigupta4623&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+    <!-- Top Languages -->
+    <img height="180em" width="340em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yashigupta4623&layout=compact&langs_count=8&theme=algolia" alt="Top Languages"/>
+  </a>
 </p>
+
 
 ## 🤝🏻 &nbsp;Connect with Me
 
