@@ -53,7 +53,7 @@
 ![Snake animation](https://github.com/yashigupta4623/yashigupta4623/blob/output/github-snake-dark.svg)
 
 <!-- Holopin Badges -->
-[![Holopin Badges](https://www.holopin.io/@yashigupta4623#badges)](https://www.holopin.io/@yashigupta4623)
+[![Holopin Badges](https://holopin.me/yashigupta4623)](https://holopin.io/@yashigupta4623)
 
 ## ⚙️ &nbsp;GitHub Analytics
 
@@ -65,6 +65,7 @@
     <img height="180em" width="340em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yashigupta4623&layout=compact&langs_count=8&theme=algolia" alt="Top Languages"/>
   </a>
 </p>
+
 
 
 ## 🤝🏻 &nbsp;Connect with Me
