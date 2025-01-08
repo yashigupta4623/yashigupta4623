@@ -50,7 +50,7 @@
 </p>
 
 <!-- Snake Animation -->
-![Snake animation](https://github.com/yashigupta4623/yashigupta4623/blob/output/github-snake-dark.svg)
+![Snake animation](https://github.com/yashigupta4623/yashigupta4623/blob/output/ocean.gif)
 
 <!-- Holopin Badges -->
 [![Holopin Badges](https://holopin.me/yashigupta4623)](https://holopin.io/@yashigupta4623)
