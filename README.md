@@ -58,15 +58,15 @@
   <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 </p>
 
-<div align = "center">
+
 <!-- Snake Animation -->
 ![Snake animation](https://github.com/yashigupta4623/yashigupta4623/blob/output/github-snake-dark.svg)
-</div>
 
-<div align = "center">
+
+
 <!-- Holopin Badges -->
 [![Holopin Badges](https://holopin.me/yashigupta4623)](https://holopin.io/@yashigupta4623)
-</div>
+
 
 ## ⚙️ &nbsp;GitHub Analytics
 
