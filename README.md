@@ -1,8 +1,14 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" height="45" width="45" /> there, I'm <a>Yashi Gupta</a></h1>
 
-<p align="center">
-  <img src="https://github.com/yashigupta4623/Snake-Eating-Contribution-Graph/blob/main/unproductive.gif" alt="Animation GIF">
-</p>
+<div style="display: flex; justify-content: center; align-items: center;">
+  <div>
+    <img src="https://github.com/yashigupta4623/Snake-Eating-Contribution-Graph/blob/main/unproductive.gif" alt="Animation GIF">
+  </div>
+  <div>
+    <img src="https://github.com/yashigupta4623/Snake-Eating-Contribution-Graph/blob/main/unproductive.gif" alt="gif">
+  </div>
+</div>
+
 
 ## 👨‍💻  &nbsp;About Me 
 - 👀 Interests: I'm passionate about exploring emerging technologies, especially in Artificial Intelligence (AI), Machine Learning (ML), MERN Development, Google Cloud, and Cloud Computing. I'm constantly eager to learn new frameworks and tools to stay on the cutting edge.
