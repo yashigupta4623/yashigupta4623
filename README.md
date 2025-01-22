@@ -1,13 +1,10 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" height="45" width="45" /> there, I'm <a>Yashi Gupta</a></h1>
 
-<div style="display: flex; justify-content: center; align-items: center;">
-  <div>
-    <img src="https://github.com/yashigupta4623/Snake-Eating-Contribution-Graph/blob/main/unproductive.gif" alt="Animation GIF">
-  </div>
-  <div>
-    <img src="https://github.com/yashigupta4623/Snake-Eating-Contribution-Graph/blob/main/unproductive.gif" alt="gif">
-  </div>
+<div align="center">
+  <img src="https://github.com/yashigupta4623/Snake-Eating-Contribution-Graph/blob/main/unproductive.gif" alt="Animation GIF" style="width: 45%; margin-right: 10px;">
+  <img src="https://github.com/yashigupta4623/Snake-Eating-Contribution-Graph/blob/main/explore.gif" alt="GIF" style="width: 45%;">
 </div>
+
 
 
 ## 👨‍💻  &nbsp;About Me 
