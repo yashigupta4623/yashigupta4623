@@ -15,6 +15,7 @@
 <div align = "center">
   <img src="https://github.com/yashigupta4623/Snake-Eating-Contribution-Graph/blob/main/explore.gif" alt="GIF">
 </div>
+
 ## 🛠 &nbsp;Tech Stack
 
 <p>
