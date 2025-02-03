@@ -1,10 +1,8 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" height="45" width="45" /> there, I'm <a>Yashi Gupta</a></h1>
 
-<div align="center">
-  <img src="https://github.com/yashigupta4623/Snake-Eating-Contribution-Graph/blob/main/unproductive.gif" alt="Animation GIF">
+<div align = "center">
+  <img src="https://github.com/yashigupta4623/Snake-Eating-Contribution-Graph/blob/main/explore.gif" alt="GIF">
 </div>
-
-
 
 ## 👨‍💻  &nbsp;About Me 
 - 👀 Interests: I'm passionate about exploring emerging technologies, especially in Artificial Intelligence (AI), Machine Learning (ML), MERN Development, Google Cloud, and Cloud Computing. I'm constantly eager to learn new frameworks and tools to stay on the cutting edge.
@@ -12,9 +10,7 @@
 - 💼 Professional Skills: I have experience in frontend and backend development, problem-solving, and sharing knowledge with others, making me a strong collaborator in technical projects.
 - 📫 Contact Me: Feel free to reach out at yashig406@gmail.com.
 
-<div align = "center">
-  <img src="https://github.com/yashigupta4623/Snake-Eating-Contribution-Graph/blob/main/explore.gif" alt="GIF">
-</div>
+
 
 ## 🛠 &nbsp;Tech Stack
 
