@@ -1,20 +1,26 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" height="45" width="45" /> there, I'm <a>Yashi Gupta</a></h1>
 
-<div align = "center">
-  <img src="https://github.com/yashigupta4623/Snake-Eating-Contribution-Graph/blob/main/explore.gif" alt="GIF">
+<div style="display: flex; align-items: center; justify-content: center;">
+  
+  <div style="flex: 1; text-align: center;">
+    <img src="https://github.com/yashigupta4623/Snake-Eating-Contribution-Graph/blob/main/explore.gif" alt="GIF" width="300">
+  </div>
+
+  <div style="flex: 2; padding-left: 20px;">
+    <ul>
+      <li>👀 <strong>Interests:</strong> I'm passionate about exploring emerging technologies, especially in Artificial Intelligence (AI), Machine Learning (ML), MERN Development, Google Cloud, and Cloud Computing. I'm constantly eager to learn new frameworks and tools to stay on the cutting edge.</li>
+      <li>🌱 <strong>Current Learning Journey:</strong> I'm advancing my skills in both AI/ML techniques and cloud solutions, while also strengthening my full-stack development expertise with a focus on the MERN stack.</li>
+      <li>💼 <strong>Professional Skills:</strong> I have experience in frontend and backend development, problem-solving, and sharing knowledge with others, making me a strong collaborator in technical projects.</li>
+      <li>📫 <strong>Contact Me:</strong> Feel free to reach out at <a href="mailto:yashig406@gmail.com">yashig406@gmail.com</a>.</li>
+    </ul>
+  </div>
+
 </div>
 
-## 👨‍💻  &nbsp;About Me 
-- 👀 Interests: I'm passionate about exploring emerging technologies, especially in Artificial Intelligence (AI), Machine Learning (ML), MERN Development, Google Cloud, and Cloud Computing. I'm constantly eager to learn new frameworks and tools to stay on the cutting edge.
-- 🌱 Current Learning Journey: I'm advancing my skills in both AI/ML techniques and cloud solutions, while also strengthening my full-stack development expertise with a focus on the MERN stack.
-- 💼 Professional Skills: I have experience in frontend and backend development, problem-solving, and sharing knowledge with others, making me a strong collaborator in technical projects.
-- 📫 Contact Me: Feel free to reach out at yashig406@gmail.com.
 
 
 
 ## 🛠 &nbsp;Tech Stack
-
-<h2>💻 Technical Skills</h2>
 
 <h3>📝 Languages:</h3>
 <p>
