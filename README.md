@@ -2,16 +2,14 @@
 
 <div style="display: flex; align-items: center; justify-content: center;">
   
-  <div style="flex: 1; text-align: center;">
-    <img src="https://github.com/yashigupta4623/Snake-Eating-Contribution-Graph/blob/main/explore.gif" alt="GIF" width="300">
-  </div>
+
 
   <div style="flex: 2; padding-left: 20px;">
     <ul>
-      <li>👀 <strong>Interests:</strong> I'm passionate about exploring emerging technologies, especially in Artificial Intelligence (AI), Machine Learning (ML), MERN Development, Google Cloud, and Cloud Computing. I'm constantly eager to learn new frameworks and tools to stay on the cutting edge.</li>
-      <li>🌱 <strong>Current Learning Journey:</strong> I'm advancing my skills in both AI/ML techniques and cloud solutions, while also strengthening my full-stack development expertise with a focus on the MERN stack.</li>
-      <li>💼 <strong>Professional Skills:</strong> I have experience in frontend and backend development, problem-solving, and sharing knowledge with others, making me a strong collaborator in technical projects.</li>
-      <li>📫 <strong>Contact Me:</strong> Feel free to reach out at <a href="mailto:yashig406@gmail.com">yashig406@gmail.com</a>.</li>
+     <li>👀 <strong>Interests:</strong> Passionate about AI/ML, MERN development, and cloud technologies like Google Cloud.</li>
+<li>🌱 <strong>Learning:</strong> Deepening skills in AI/ML, cloud solutions, and full-stack (MERN) development.</li>
+<li>💼 <strong>Skills:</strong> Experienced in frontend/backend dev, problem-solving, and team collaboration.</li>
+<li>📫 <strong>Contact Me:</strong> Feel free to reach out at <a href="mailto:yashig406@gmail.com">yashig406@gmail.com</a>.</li>
     </ul>
   </div>
 
@@ -61,32 +59,18 @@
 
 
 
-<!-- Snake Animation -->
-![Snake animation](https://github.com/yashigupta4623/yashigupta4623/blob/output/github-snake-dark.svg)
-
 
 
 <!-- Holopin Badges -->
 [![Holopin Badges](https://holopin.me/yashigupta4623)](https://holopin.io/@yashigupta4623)
 
 
-## ⚙️ &nbsp;GitHub Analytics
-
-<p align="left">
-  <a href="https://github.com/yashigupta4623">
-    <!-- GitHub Stats -->
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yashigupta4623&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-    <!-- Top Languages -->
-    <img height="180em" width="340em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yashigupta4623&layout=compact&langs_count=8&theme=algolia" alt="Top Languages"/>
-  </a>
-</p>
-
 
 ## 🤝🏻 &nbsp;Connect with Me
 
 <div class="social-badges">
 <a href="https://www.linkedin.com/in/yashi-gupta-a65218232/" target="_blank">
-  <img align="left" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img align="left" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=black" />
 </a>
 
 <a href="mailto:yashig406@gmail.com" target="_blank">
