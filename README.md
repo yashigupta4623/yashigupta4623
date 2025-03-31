@@ -70,7 +70,7 @@
 
 <div class="social-badges">
 <a href="https://www.linkedin.com/in/yashi-gupta-a65218232/" target="_blank">
-  <img align="left" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=black" />
+  <img  alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=black" />
 </a>
 
 <a href="mailto:yashig406@gmail.com" target="_blank">
@@ -78,7 +78,11 @@
 </a>
 
   <a href="https://www.youtube.com/channel/UCSQi8AQvLj53dRnEDAlhPsQ" target="_blank">
-    <img alt="Qwiklab" src="https://img.shields.io/badge/Youtube-F5CD0E.svg?style=for-the-badge&logo=Qwiklabs&logoColor=black">
+    <img alt="Qwiklab" src="https://img.shields.io/badge/Youtube-dc143c.svg?style=for-the-badge&logo=Qwiklabs&logoColor=black">
+  </a>
+
+  <a href="https://bento.me/yashig406" target="_blank">
+    <img alt="Qwiklab" src="https://img.shields.io/badge/Bento-F5CD0E.svg?style=for-the-badge&logo=bentos&logoColor=black">
   </a>
 
 <br>
@@ -88,11 +92,15 @@
   </a>
 
   <a href="https://twitter.com/yashig406" target="_blank">
-    <img alt="Twitter" src="https://img.shields.io/badge/-twitter-0077B5?style=for-the-badge&logo=Twitter&logoColor=white">
+    <img alt="Twitter" src="https://img.shields.io/badge/-twitter-008080?style=for-the-badge&logo=Twitter&logoColor=white">
   </a>
 
    <a href="https://medium.com/@yashig406" target="_blank">
-    <img alt="Twitter" src="https://img.shields.io/badge/-medium-0077B5?style=for-the-badge&logo=Medium&logoColor=black">
+    <img alt="Twitter" src="https://img.shields.io/badge/-medium-008000?style=for-the-badge&logo=Medium&logoColor=black">
+  </a>
+
+  <a href="https://buymeacoffee.com/yashig406" target="_blank">
+    <img alt="Gift ☕︎" src="https://img.shields.io/badge/-twitter-ca1f7b?style=for-the-badge&logo=Twitter&logoColor=white">
   </a>
 </div>
 
